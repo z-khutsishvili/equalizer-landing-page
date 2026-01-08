@@ -61,7 +61,7 @@ body {
     background-color: var(--black);
     background-image: url(../images/bg-pattern-2.svg);
     background-repeat: no-repeat;
-    background-position: left 33.6rem top -4rem;
+    background-position: left 37.6rem top 0rem;
     min-height: 60rem;
     border-radius: 1.2rem;
     position: relative;
@@ -71,7 +71,7 @@ body {
 .hero__app-illustration {
     width: 31.2rem;
     position: absolute;
-    top: -21.3rem;
+    top: -11.3rem;
     left: 10.2rem;
 }
 
