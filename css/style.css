@@ -78,13 +78,13 @@ body {
 .hero__premium-eq {
     background-color: var(--orange);
     border-radius: 1.2rem;
-    max-width: 44.6rem;
+    max-width: 54.6rem;
     min-height: 62.5rem;
     color: var(--black);
     font-size: 2rem;
     padding: 2.9em 2.7em 2.4em;
     position: absolute;
-    right: 9.5rem;
+    right: 10.2rem;
     top: 9rem;
 }
 
@@ -178,7 +178,7 @@ body {
 .footer__copyright {
     font-size: 1.6rem;
     font-weight: var(--regular);
-    max-width: 36.6rem;
+    max-width: 46.6rem;
     line-height: 1.67em;
     letter-spacing: .0005em;
     margin-left: .75rem;
