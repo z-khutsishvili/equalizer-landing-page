@@ -4,7 +4,7 @@ This is a solution to the [Equalizer landing page challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/equalizer-landing-page-DEaMnMpXnJ](https://www.frontendmentor.io/solutions/equalizer-landing-page-DEaMnMpXnJ)
 - Live Site URL: [https://z-khutsishvili.github.io/equalizer-landing-page/](https://z-khutsishvili.github.io/equalizer-landing-page/)
 
 ## Built with
