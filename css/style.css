@@ -33,7 +33,7 @@ body {
 
 .header {
     max-width: 85rem;
-    margin-bottom: 32.3rem;
+    margin-bottom: 28.3rem;
 }
 
 .header__logo {
@@ -54,6 +54,7 @@ body {
     font-size: 2rem;
     line-height: 1.7em;
     margin-left: -0.05rem;
+    margin-right: 12rem;
 }
 
 .hero {
